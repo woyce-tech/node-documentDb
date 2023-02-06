@@ -1,0 +1,33 @@
+{
+  "name": "documentdb",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/woyce-tech/node-documentdb.git"
+  },
+  "keywords": [
+    "node",
+    "documentDB",
+    "mongoDB"
+  ],
+  "author": "woyce",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/woyce-tech/node-documentdb/issues"
+  },
+  "homepage": "https://github.com/woyce-tech/node-documentdb#readme",
+  "dependencies": {
+    "aws-sdk": "^2.1309.0",
+    "mongodb": "^5.0.0"
+  },
+  "devDependencies": {
+    "eslint": "^8.31.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-import": "^2.26.0"
+  }
+}
